@@ -4,7 +4,7 @@
 This project automates the process of financial data analysis to make it faster and more efficient. The goal is to handle 25 files daily from different regions and create a report by 8 PM.
 
 ## Dashboard Link
-https://app.powerbi.com/view?r=eyJrIjoiZmY2ZWNmNzgtNTJkYS00NjMzLWE2YTktN2FiMTVmMjAxM2QxIiwidCI6IjYwY2M1ZGI0LTRjZTEtNDEwNS1iY2RlLWJjMjY0NmI2NDMyNyJ9
+https://app.powerbi.com/view?r=eyJrIjoiNjA0Y2Q2MDgtMWYyZS00MTgyLTg5ZGMtYTBlOTViZjFlOTk2IiwidCI6Ijg2MDA1ZGZiLWEyZjEtNDdiYy1hNTVkLTkwYmI1MzI0Y2NjYSJ9 
 
 ## Problem Statement
 Manually sorting, cleaning, transforming, and reporting 25 files every day by 8 PM was inefficient.
