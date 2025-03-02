@@ -20,7 +20,7 @@ Steps Followed:
 * File Storage:
 
     used power automate to automatically
-  move the file from otlook to a dedicated
+  move the file from outlook to a dedicated
   google drive folder
 
 
