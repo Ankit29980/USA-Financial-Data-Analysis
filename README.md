@@ -19,16 +19,17 @@ Steps Followed:
 
 * File Storage:
 
-    Stored the files in Google Drive.
+    used power automate to automatically
+  move the file from otlook to a dedicated
+  google drive folder
 
-* API Development:
 
-    Used Google Cloud Platform to create an API.
 
-    Connected the Google Drive folder and Power BI using a Python script.
+* Data Processing & Cleaning
 
-* Data Cleaning and Transformation:
-
+    Accessed the google drive folder directly
+    using power query in power bi.
+  
     Cleaned and transformed the data in Power Query.
 
 * Report Generation:
